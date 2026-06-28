@@ -97,6 +97,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-taeo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHEN-taeo/CHEN-taeo/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/CHEN-taeo/CHEN-taeo/output/snake.svg" alt="Contribution Snake" width="95%" />
+  </picture>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CHEN-taeo&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 ### 📫 Connect
