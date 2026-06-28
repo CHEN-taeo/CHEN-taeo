@@ -10,6 +10,12 @@
   </samp>
 </p>
 
+<p align="center">
+  <a href="https://chen-taeo.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-chen--taeo.github.io-7aa2f7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### 🧠 About Me
