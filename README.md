@@ -123,6 +123,14 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/CHEN-taeo/idea-forge/pull/1) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+2. 💪 Opened PR [#9](https://github.com/CHEN-taeo/idea-forge/pull/9) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+3. 💪 Opened PR [#8](https://github.com/CHEN-taeo/idea-forge/pull/8) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+4. 💪 Opened PR [#7](https://github.com/CHEN-taeo/idea-forge/pull/7) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+5. 💪 Opened PR [#6](https://github.com/CHEN-taeo/idea-forge/pull/6) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+6. 💪 Opened PR [#5](https://github.com/CHEN-taeo/idea-forge/pull/5) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+7. 💪 Opened PR [#4](https://github.com/CHEN-taeo/idea-forge/pull/4) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
+8. 🎉 Merged PR [#3](https://github.com/CHEN-taeo/idea-forge/pull/3) in [CHEN-taeo/idea-forge](https://github.com/CHEN-taeo/idea-forge)
 <!--END_SECTION:activity-->
 
 ---
